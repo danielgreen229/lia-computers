@@ -4,8 +4,8 @@
       <source src="@/assets/video/title.mp4" type="video/mp4">
     </video>
     <div class="center-title__container" >
-      <h1 class="display-4 fw-bold mb-0">乚工丹</h1>
-      <p class="fw-bold">亡口从户凵丁它尺丂</p>
+      <h1 class="display-4 fw-bold mb-0">Lia</h1>
+      <p class="fw-bold">Computers</p>
       <p class="lead fw-light">Аренда компьютеров в Астрахани</p>
       <a class="btn btn-outline-secondary" href="#plans">Выбрать</a>
     </div>
