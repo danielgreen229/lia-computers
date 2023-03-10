@@ -1,14 +1,26 @@
 # LIA-computers
 
+Small landing for LIA-computers company
+
 This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+You can preview on:
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+<a target="_blank" href="https://sweet-alpaca-8cc02c.netlify.app" >Preview</a>
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+--------------------------
+#Video Preview
+
+main page:
+
+
+
+https://user-images.githubusercontent.com/69796780/224424827-1f3e3517-1852-4002-9fa0-a070e4d67902.mp4
+
+--------------------------
+
+
 
 ## Project Setup
 
